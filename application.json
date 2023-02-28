@@ -1,0 +1,27 @@
+{
+  "pages": [
+    {
+      "id": "Bugs and Issues",
+      "isDefault": true
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "clonedFromApplicationId": "6266b55600cba01cd0300ec2",
+  "color": "#FFDEDE",
+  "icon": "alien",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "forkingEnabled": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
